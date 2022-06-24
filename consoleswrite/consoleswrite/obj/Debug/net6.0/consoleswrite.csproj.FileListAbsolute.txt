@@ -1,0 +1,15 @@
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\bin\Debug\net6.0\consoleswrite.exe
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\bin\Debug\net6.0\consoleswrite.deps.json
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\bin\Debug\net6.0\consoleswrite.runtimeconfig.json
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\bin\Debug\net6.0\consoleswrite.dll
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\bin\Debug\net6.0\consoleswrite.pdb
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.csproj.AssemblyReference.cache
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.AssemblyInfoInputs.cache
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.AssemblyInfo.cs
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.csproj.CoreCompileInputs.cache
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.dll
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\refint\consoleswrite.dll
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.pdb
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\consoleswrite.genruntimeconfig.cache
+C:\Users\LukGaming\Desktop\curso-c-\consoleswrite\consoleswrite\obj\Debug\net6.0\ref\consoleswrite.dll
