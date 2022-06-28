@@ -1,0 +1,27 @@
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\appsettings.json
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\First Api.exe
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\First Api.deps.json
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\First Api.runtimeconfig.json
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\First Api.dll
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\First Api.pdb
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.csproj.AssemblyReference.cache
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.AssemblyInfoInputs.cache
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.AssemblyInfo.cs
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.csproj.CoreCompileInputs.cache
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\scopedcss\bundle\First Api.styles.css
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.csproj.CopyComplete
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.dll
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\refint\First Api.dll
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.pdb
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\First Api.genruntimeconfig.cache
+C:\Users\LukGaming\Desktop\curso-csharp\First Api\First Api\obj\Debug\net6.0\ref\First Api.dll

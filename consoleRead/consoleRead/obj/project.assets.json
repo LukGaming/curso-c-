@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LukGaming\\Desktop\\curso-c-\\consoleRead\\consoleRead\\consoleRead.csproj",
+      "projectUniqueName": "C:\\Users\\LukGaming\\Desktop\\curso-csharp\\consoleRead\\consoleRead\\consoleRead.csproj",
       "projectName": "consoleRead",
-      "projectPath": "C:\\Users\\LukGaming\\Desktop\\curso-c-\\consoleRead\\consoleRead\\consoleRead.csproj",
+      "projectPath": "C:\\Users\\LukGaming\\Desktop\\curso-csharp\\consoleRead\\consoleRead\\consoleRead.csproj",
       "packagesPath": "C:\\Users\\LukGaming\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LukGaming\\Desktop\\curso-c-\\consoleRead\\consoleRead\\obj\\",
+      "outputPath": "C:\\Users\\LukGaming\\Desktop\\curso-csharp\\consoleRead\\consoleRead\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LukGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",

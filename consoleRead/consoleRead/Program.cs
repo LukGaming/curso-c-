@@ -9,3 +9,6 @@ for (int i = 0; i < players_list.Length; i++)
 {
     Console.WriteLine($"{i}: {players_list[i]}");
 }
+
+
+
